@@ -1,3 +1,3 @@
 # CodeKata
-Mimmo's Daily CodeKata Repo 👽
-started: January 17, 2024
+- Mimmo's Daily CodeKata Repo 👽
+- Started: January 17, 2024
