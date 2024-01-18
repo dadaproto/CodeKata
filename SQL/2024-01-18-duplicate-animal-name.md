@@ -2,6 +2,8 @@
 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
 - 제출 일자: 2024-01-18
 
+### Query
+
 ```sql
 SELECT NAME,
        COUNT(NAME) as COUNT
