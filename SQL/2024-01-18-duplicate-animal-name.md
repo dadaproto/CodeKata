@@ -5,11 +5,11 @@
 ### Query
 
 ```sql
-SELECT NAME,
-       COUNT(NAME) as COUNT
+SELECT NAME, COUNT(1) COUNT
 FROM ANIMAL_INS
 WHERE NAME IS NOT NULL
 GROUP BY NAME
+HAVING COUNT(1) >= 2
 ORDER BY NAME
 ```
 
@@ -17,8 +17,5 @@ ORDER BY NAME
 
 | NAME | COUNT |
 | :---- | :- |
-| *Morado | 1 |
-| *Sam | 1 |
-| Anna | 1 |
-| … | … |
-| Zoe | 1 |
+| Lucy | 3 |
+| Raven | 2 |
