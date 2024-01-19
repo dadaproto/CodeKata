@@ -2,6 +2,8 @@
 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
 - 제출 일자: 2024-01-18
 
+### Query
+
 ```sql
 SELECT COUNT(ANIMAL_ID) COUNT
 FROM ANIMAL_INS
