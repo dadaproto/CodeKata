@@ -12,5 +12,6 @@ WHERE AGE IS NULL
 
 ### Result
 
+| USERS |
 | :---- |
 | 4     |
