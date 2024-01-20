@@ -1,7 +1,7 @@
 ## 경기도에 위치한 식품창고 목록 출력하기
 
-> 문제 [[링크]](https://school.programmers.co.kr/learn/courses/30/lessons/131114): FOOD_WAREHOUSE 테이블에서 경기도에 위치한 창고의 ID, 이름, 주소, 냉동시설 여부를 조회하기. 이때 냉동시설 여부가 NULL인 경우, 'N'으로 출력하고, 결과는 창고 ID를 기준으로 오름차순 정렬
-> 제출 일자: 2024-01-20
+- 문제 [[링크]](https://school.programmers.co.kr/learn/courses/30/lessons/131114): FOOD_WAREHOUSE 테이블에서 경기도에 위치한 창고의 ID, 이름, 주소, 냉동시설 여부를 조회하기. 이때 냉동시설 여부가 NULL인 경우, 'N'으로 출력하고, 결과는 창고 ID를 기준으로 오름차순 정렬
+- 제출 일자: 2024-01-20
 
 ---
 
