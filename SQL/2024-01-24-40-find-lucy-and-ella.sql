@@ -1,0 +1,5 @@
+SELECT ANIMAL_ID, NAME, 
+IF(SEX_UPON_INTAKE IN ('Spayed Female', 'Neutered Male'), SEX_UPON_INTAKE, NULL) SEX_UPON_INTAKE
+FROM ANIMAL_INS
+WHERE NAME IN ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty')
+ORDER BY ANIMAL_ID
